@@ -1,0 +1,15 @@
+D:\reposExamples\Estudio\Estudio\bin\Debug\net6.0\Estudio.exe
+D:\reposExamples\Estudio\Estudio\bin\Debug\net6.0\Estudio.deps.json
+D:\reposExamples\Estudio\Estudio\bin\Debug\net6.0\Estudio.runtimeconfig.json
+D:\reposExamples\Estudio\Estudio\bin\Debug\net6.0\Estudio.dll
+D:\reposExamples\Estudio\Estudio\bin\Debug\net6.0\Estudio.pdb
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.csproj.AssemblyReference.cache
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.AssemblyInfoInputs.cache
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.AssemblyInfo.cs
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.csproj.CoreCompileInputs.cache
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.dll
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\refint\Estudio.dll
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.pdb
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\Estudio.genruntimeconfig.cache
+D:\reposExamples\Estudio\Estudio\obj\Debug\net6.0\ref\Estudio.dll
