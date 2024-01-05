@@ -1,4 +1,4 @@
-# FundamentosC-Charp
+# FundamentosC-Sharp
 Proyecto Consola - Fundamentos Básicos / C# / .Net / Ejemplos Básicos / Conceptos de Programacion 
 * SOBRECARGA
 * POLIMORFISMO
